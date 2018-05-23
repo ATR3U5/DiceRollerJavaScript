@@ -1,8 +1,3 @@
-window.onload = function () {
-
-    document.getElementById("diceName").innerHTML = allDice[arrayCounter].diceName;
-    document.getElementById("dice").src = allDice[arrayCounter].imageSource;
-}
 
 var arrayCounter = 1;
 
